@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Guide - 8 Books That Will Teach You Python Programming
+author: Daniel Greenfeld
 ---
 
 {{ page.title }}

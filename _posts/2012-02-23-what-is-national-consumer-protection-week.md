@@ -1,6 +1,7 @@
 ---
 layout: post
 title: What Is National Consumer Protection Week?
+author: Audrey Roy
 ---
 
 {{ page.title }}

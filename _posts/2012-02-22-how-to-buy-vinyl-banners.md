@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Guide - How To Buy Vinyl Banners
+author: Audrey Roy
 ---
 
 {{ page.title }}

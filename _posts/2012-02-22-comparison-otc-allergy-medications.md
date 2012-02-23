@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Comparison - Over The Counter Allergy Medications
+author: Audrey Roy
 ---
 
 {{ page.title }}
