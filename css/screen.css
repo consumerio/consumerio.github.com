@@ -8,11 +8,10 @@
 
 *{margin:0;padding:0;}
 html,body{height:100%;}
-body{background-color:white;font:13px 'Helvetica Neue', Helvetica, arial, clean, sans-serif;*font-size: small;text-align: center;}
+body{background-color:white;font:12px 'Helvetica Neue', Helvetica, Arial, clean, sans-serif;}
 
 h1{font-size:22px;}
 h2,h3,h4,h5,h6{font-size:100%;}
-h1 {margin-bottom:1em;}
 
 p{margin:1em 0;}
 
@@ -31,7 +30,6 @@ div.post{margin-bottom:2em;}
 /* Site
 /*****************************************************************************/
 
-.site{font-size:110%;text-align:justify;width:40em;margin:3em auto 2em auto;line-height: 1.5em;}
 .title{color: #a00;font-weight: bold;margin-bottom:2em;}
 .site .title a{color:black;text-decoration:none;}
 .site .title a:hover{color:black;}
@@ -43,6 +41,8 @@ div.post{margin-bottom:2em;}
 .site .footer .contact a{color:#8085C1;}
 .site .footer .rss{margin-top:1.1em;margin-right:-.2em;float:right;}
 .site .footer .rss img{border: 0;}
+.container-fluid{padding:20px 40px 20px 20px;}
+hr{margin-bottom:1em;}
 
 /* Posts
 /*****************************************************************************/
