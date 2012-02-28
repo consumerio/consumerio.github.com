@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Home Cheesemaking: What's In Those Cheese Kits?
+title: Home Cheesemaking - What's In Those Cheese Kits?
 author: Audrey Roy
 ---
 
